@@ -36,6 +36,22 @@ The project aims to analyze the impact of key economic and housing market factor
 |mortgage_rate          |-0.730709|
 |labor_percent          |-0.788313|
 
+### Breakdown of correation of each factor with the target column
+
+**Positive Impact:**
+Higher Prices: Factors like MSPUS (Median Sales Price of Houses Sold), GDP, Income, and certain construction-related metrics like PPIs and population tend to push house prices upward.
+
+**Moderate Influence:**
+Moderate Impact: Other construction-related indicators like employment in construction, new housing units under construction, and total construction employees also contribute positively but not as strongly as the above factors.
+
+**Weak Influence:**
+Mild Impact: Factors like homeownership rates, monthly housing supply, and building permits have a relatively minor positive effect on house prices.
+
+**Negative Impact:**
+Lower Prices: Certain factors like higher mortgage rates, unemployment rates, and lower labor force participation tend to bring house prices down.
+
+So, in a nutshell, economic growth, higher income, certain construction activities, and market demand tend to drive prices up. On the flip side, higher mortgage rates, unemployment, and lower participation in the labor force can bring prices down.
+
 | ![image](https://github.com/grzzlyb/home-price-trends/assets/123747958/daa5900a-2dd8-46b1-97c1-be342344508e)|
 |:--:|
 | *Feature Importance* |
