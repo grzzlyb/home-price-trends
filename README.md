@@ -13,6 +13,29 @@ The project aims to analyze the impact of key economic and housing market factor
 |:--:|
 | *Model Performance* |
 
+| Features       | Corr  |
+| ------------- | -----:|
+| MSPUS         |0.980144|
+|PPI_Cement      |0.964074|
+|GDP                     |0.960633|
+|income                  |0.955608|
+|PPI_Concrete            |0.939072|
+|population              |0.896974|
+|total_emp_cons          |0.812130|
+|new_private_hw_under    |0.634935|
+|all_Const_Emp           |0.560479|
+|home_ow_rate            |0.207294|
+|monthly_supply          |0.169504|
+|permit                  |0.127189|
+|house_st               |-0.001742|
+|new_private_house      |-0.068468|
+|unemployed_rate        |-0.249211|
+|IPI_Cement             |-0.260807|
+|p_saving_rate          |-0.286001|
+|emratio                |-0.538776|
+|mortgage_rate          |-0.730709|
+|labor_percent          |-0.788313|
+
 | ![image](https://github.com/grzzlyb/home-price-trends/assets/123747958/daa5900a-2dd8-46b1-97c1-be342344508e)|
 |:--:|
 | *Feature Importance* |
