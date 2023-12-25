@@ -9,11 +9,13 @@ The project aims to analyze the impact of key economic and housing market factor
 - Model Evaluation
 
 ## Analysis Results
-Model Performance
-![image](https://github.com/grzzlyb/home-price-trends/assets/123747958/0b99f852-b07f-4a69-8f02-bff36afe0fd9)
+| ![image](https://github.com/grzzlyb/home-price-trends/assets/123747958/0b99f852-b07f-4a69-8f02-bff36afe0fd9) |
+|:--:|
+| *Model Performance* |
 
-Feature Performance
-![image](https://github.com/grzzlyb/home-price-trends/assets/123747958/daa5900a-2dd8-46b1-97c1-be342344508e)
+| ![image](https://github.com/grzzlyb/home-price-trends/assets/123747958/daa5900a-2dd8-46b1-97c1-be342344508e)|
+|:--:|
+| *Feature Importance* |
 
 The above result highlights that areas with more people tend to have higher home prices. It suggests **population** changes strongly impact how home prices move. However, while population stands out, it's just one part of the picture. Other factors like income, GDP, etc also play roles in determining home prices.
 
